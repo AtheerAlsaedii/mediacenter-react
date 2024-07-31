@@ -5,7 +5,7 @@ This project showcases a React application developed with TypeScript, leveraging
 - User Interface: Implemented using React and TypeScript to ensure type safety and maintainable code.
 - State Management: Managed with Redux Toolkit for efficient and scalable state management.
 - Routing: Utilizes React Router for smooth navigation between different parts of the application.
-- API Integration: Connects to a backend API to fetch and display dynamic data.
+- API Integration: Connects to a backend API to fetch and display data.
 
 ## Technologies
 - React: A JavaScript library for building user interfaces.
