@@ -11,4 +11,6 @@ This project showcases a React application developed with TypeScript, leveraging
 - React: A JavaScript library for building user interfaces.
 - TypeScript: Adds static typing to JavaScript, enhancing code quality and reducing runtime errors.
 - React Router: Provides routing and navigation functionalities.
-- Redux Toolkit: Simplifies Redux development with a set of best 
+- Redux Toolkit: Simplifies Redux development with a set of best
+### Note:
+Link for back-end part (https://github.com/AtheerAlsaedii/MediaCenter-BackEnd)
